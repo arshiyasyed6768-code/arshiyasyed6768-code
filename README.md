@@ -15,5 +15,5 @@
 - College Chatbot
 
 📫 Connect With Me
-- LinkedIn
+- https://www.linkedin.com/in/arshiya-syed-835b08329?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - GitHub
