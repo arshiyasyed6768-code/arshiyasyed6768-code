@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Arshiya 👋
 
-<!--
-**arshiyasyed6768-code/arshiyasyed6768-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Skills
+- Python
+- SQL
+- Machine Learning
+- Data Analytics
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Food Calorie Estimator
+- Face Recognition System
+- College Chatbot
+
+📫 Connect With Me
+- LinkedIn
+- GitHub
